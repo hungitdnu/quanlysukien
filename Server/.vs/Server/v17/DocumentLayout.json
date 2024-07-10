@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|d:\\codes\\dotnet\\quanlysukien_sql\\server\\gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|solutionrelative:gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|d:\\codes\\dotnet\\quanlysukien_sql\\server\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|d:\\codes\\dotnet\\quanlysukien_sql\\server\\service\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|solutionrelative:service\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|d:\\codes\\dotnet\\quanlysukien_sql\\server\\gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|solutionrelative:gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|d:\\codes\\dotnet\\quanlysukien_sql\\server\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|solutionrelative:service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|d:\\codes\\dotnet\\quanlysukien_sql\\server\\service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|solutionrelative:service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|d:\\codes\\dotnet\\quanlysukien_sql\\server\\utils\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCF7A2A-627A-4135-B4B8-3F506B85E00E}|Server.csproj|solutionrelative:utils\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-08T15:55:35.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLService.cs",
+              "DocumentMoniker": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Service\\SQLService.cs",
+              "RelativeDocumentMoniker": "Service\\SQLService.cs",
+              "ToolTip": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Service\\SQLService.cs",
+              "RelativeToolTip": "Service\\SQLService.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAYwLsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:10:53.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\GUI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GUI\\Dashboard.cs",
+              "ToolTip": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\GUI\\Dashboard.cs",
+              "RelativeToolTip": "GUI\\Dashboard.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAjwKIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:09:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\GUI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GUI\\Dashboard.cs",
+              "ToolTip": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\GUI\\Dashboard.cs [Design]",
+              "RelativeToolTip": "GUI\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:07:59.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAawF8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:06:48.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Utils\\Validate.cs",
+              "RelativeDocumentMoniker": "Utils\\Validate.cs",
+              "ToolTip": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Utils\\Validate.cs",
+              "RelativeToolTip": "Utils\\Validate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:06:35.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Service\\ClientService.cs",
+              "RelativeDocumentMoniker": "Service\\ClientService.cs",
+              "ToolTip": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Service\\ClientService.cs",
+              "RelativeToolTip": "Service\\ClientService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwDYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:06:03.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Service\\Service.cs",
+              "RelativeDocumentMoniker": "Service\\Service.cs",
+              "ToolTip": "D:\\Codes\\Dotnet\\QuanLySuKien_SQL\\Server\\Service\\Service.cs",
+              "RelativeToolTip": "Service\\Service.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwFIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:10:50.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

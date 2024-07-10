@@ -1,0 +1,13 @@
+D:\Codes\Dotnet\QuanLySuKien\Client\bin\Debug\Client.exe.config
+D:\Codes\Dotnet\QuanLySuKien\Client\bin\Debug\Client.exe
+D:\Codes\Dotnet\QuanLySuKien\Client\bin\Debug\Client.pdb
+D:\Codes\Dotnet\QuanLySuKien\Client\obj\Debug\CliClo.csproj.AssemblyReference.cache
+D:\Codes\Dotnet\QuanLySuKien\Client\obj\Debug\CliCli.DangKy.resources
+D:\Codes\Dotnet\QuanLySuKien\Client\obj\Debug\CliCli.DanhSachSuKien.resources
+D:\Codes\Dotnet\QuanLySuKien\Client\obj\Debug\CliCli.Form1.resources
+D:\Codes\Dotnet\QuanLySuKien\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Codes\Dotnet\QuanLySuKien\Client\obj\Debug\CliCli.ThemMoiSuKien.resources
+D:\Codes\Dotnet\QuanLySuKien\Client\obj\Debug\CliClo.csproj.GenerateResource.cache
+D:\Codes\Dotnet\QuanLySuKien\Client\obj\Debug\CliClo.csproj.CoreCompileInputs.cache
+D:\Codes\Dotnet\QuanLySuKien\Client\obj\Debug\Client.exe
+D:\Codes\Dotnet\QuanLySuKien\Client\obj\Debug\Client.pdb
